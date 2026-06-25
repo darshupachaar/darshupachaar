@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darshupachaar
-- 🌱 I’m currently learning ...programing language
+
 
 
 <!---
